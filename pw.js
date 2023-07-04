@@ -21,5 +21,5 @@ const other = {
     ["xiaoye_sekai", pw.j_s, "18075930711", "chrome中有保存"],
   ],
   telegram: "18075930711",
-  apple_id:['xiaodai_assignment@196.com','destiny .',pw.x_]
+  apple_id:['xiaodai_assignment@163.com','destiny .',pw.x_]
 };
