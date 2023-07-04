@@ -3,6 +3,7 @@ const pw = {
   j: "jumpjump65416888",
   j_s: "jumpjump",
   x_: "Xianglong18zhang./",
+  x_a: "Xianglong18zhang@",
 };
 
 const browser = {
@@ -23,3 +24,7 @@ const other = {
   telegram: "18075930711",
   apple_id:['xiaodai_assignment@163.com','destiny .',pw.x_]
 };
+
+const git={
+  tgit:['real.try',pw.x_a,'工蜂QQ登录']
+}
