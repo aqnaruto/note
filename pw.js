@@ -8,6 +8,7 @@ const pw = {
 const browser = {
   chrome: ["liao1heng@gmail.com", "18075930711", pw.j],
   firefox: ["co_uchihasasuke@outlook.com"],
+  edge: ["18075930711", pw.j, "try.real@outlook.com"],
 };
 
 const pay = {
@@ -19,5 +20,5 @@ const other = {
     "@sm_ntr_/google_sso#liao1heng",
     ["xiaoye_sekai", pw.j_s, "18075930711", "chrome中有保存"],
   ],
-  telegram:'18075930711'
+  telegram: "18075930711",
 };
